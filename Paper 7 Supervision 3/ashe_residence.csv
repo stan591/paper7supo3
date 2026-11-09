@@ -1,0 +1,337 @@
+DATE_NAME,GEOGRAPHY_NAME,OBS_VALUE
+2002,United Kingdom,390.9
+2002,Great Britain,392.7
+2002,North East,343.2
+2002,North West,370.2
+2002,Yorkshire and The Humber,360.0
+2002,East Midlands,369.6
+2002,West Midlands,366.0
+2002,East,415.9
+2002,London,479.9
+2002,South East,435.1
+2002,South West,367.1
+2002,Wales,353.5
+2002,Scotland,369.3
+2002,Northern Ireland,342.0
+2003,United Kingdom,404.0
+2003,Great Britain,406.2
+2003,North East,350.5
+2003,North West,383.2
+2003,Yorkshire and The Humber,375.5
+2003,East Midlands,385.7
+2003,West Midlands,378.9
+2003,East,431.7
+2003,London,496.3
+2003,South East,451.0
+2003,South West,383.9
+2003,Wales,368.5
+2003,Scotland,381.8
+2003,Northern Ireland,352.0
+2004,United Kingdom,419.2
+2004,Great Britain,421.3
+2004,North East,368.8
+2004,North West,395.0
+2004,Yorkshire and The Humber,391.5
+2004,East Midlands,391.6
+2004,West Midlands,392.9
+2004,East,447.6
+2004,London,509.8
+2004,South East,461.8
+2004,South West,396.9
+2004,Wales,382.9
+2004,Scotland,390.6
+2004,Northern Ireland,372.6
+2005,United Kingdom,431.2
+2005,Great Britain,432.8
+2005,North East,383.3
+2005,North West,409.5
+2005,Yorkshire and The Humber,400.0
+2005,East Midlands,412.2
+2005,West Midlands,404.7
+2005,East,456.7
+2005,London,526.7
+2005,South East,468.9
+2005,South West,406.0
+2005,Wales,393.4
+2005,Scotland,409.8
+2005,Northern Ireland,385.2
+2006,United Kingdom,443.6
+2006,Great Britain,445.9
+2006,North East,391.5
+2006,North West,419.6
+2006,Yorkshire and The Humber,412.5
+2006,East Midlands,423.1
+2006,West Midlands,416.2
+2006,East,466.0
+2006,London,537.6
+2006,South East,486.5
+2006,South West,420.5
+2006,Wales,404.2
+2006,Scotland,427.9
+2006,Northern Ireland,402.5
+2007,United Kingdom,457.6
+2007,Great Britain,460.0
+2007,North East,401.0
+2007,North West,433.7
+2007,Yorkshire and The Humber,425.6
+2007,East Midlands,430.0
+2007,West Midlands,431.1
+2007,East,479.9
+2007,London,555.9
+2007,South East,502.3
+2007,South West,432.6
+2007,Wales,414.8
+2007,Scotland,440.9
+2007,Northern Ireland,400.5
+2008,United Kingdom,479.1
+2008,Great Britain,480.0
+2008,North East,421.7
+2008,North West,451.3
+2008,Yorkshire and The Humber,444.3
+2008,East Midlands,450.2
+2008,West Midlands,449.8
+2008,East,499.0
+2008,London,581.5
+2008,South East,524.8
+2008,South West,451.9
+2008,Wales,424.8
+2008,Scotland,462.9
+2008,Northern Ireland,417.6
+2009,United Kingdom,488.5
+2009,Great Britain,490.5
+2009,North East,438.5
+2009,North West,460.0
+2009,Yorkshire and The Humber,452.6
+2009,East Midlands,460.2
+2009,West Midlands,456.8
+2009,East,509.5
+2009,London,598.2
+2009,South East,536.6
+2009,South West,460.0
+2009,Wales,444.6
+2009,Scotland,471.2
+2009,Northern Ireland,436.6
+2010,United Kingdom,498.5
+2010,Great Britain,501.7
+2010,North East,443.4
+2010,North West,471.0
+2010,Yorkshire and The Humber,462.5
+2010,East Midlands,469.8
+2010,West Midlands,469.2
+2010,East,523.3
+2010,London,606.4
+2010,South East,547.8
+2010,South West,468.3
+2010,Wales,456.2
+2010,Scotland,486.6
+2010,Northern Ireland,437.6
+2011,United Kingdom,498.3
+2011,Great Britain,500.2
+2011,North East,448.5
+2011,North West,458.7
+2011,Yorkshire and The Humber,461.7
+2011,East Midlands,468.2
+2011,West Midlands,465.2
+2011,East,525.0
+2011,London,608.8
+2011,South East,554.6
+2011,South West,471.5
+2011,Wales,455.1
+2011,Scotland,487.2
+2011,Northern Ireland,445.1
+2012,United Kingdom,506.1
+2012,Great Britain,508.3
+2012,North East,454.9
+2012,North West,472.1
+2012,Yorkshire and The Humber,465.2
+2012,East Midlands,476.5
+2012,West Midlands,469.3
+2012,East,531.4
+2012,London,613.3
+2012,South East,555.8
+2012,South West,477.4
+2012,Wales,454.9
+2012,Scotland,498.3
+2012,Northern Ireland,458.4
+2013,United Kingdom,517.4
+2013,Great Britain,517.9
+2013,North East,472.2
+2013,North West,483.3
+2013,Yorkshire and The Humber,479.1
+2013,East Midlands,483.0
+2013,West Midlands,483.0
+2013,East,543.5
+2013,London,613.3
+2013,South East,557.6
+2013,South West,485.1
+2013,Wales,475.3
+2013,Scotland,507.9
+2013,Northern Ireland,464.4
+2014,United Kingdom,518.3
+2014,Great Britain,521.1
+2014,North East,476.7
+2014,North West,485.3
+2014,Yorkshire and The Humber,479.0
+2014,East Midlands,483.7
+2014,West Midlands,481.2
+2014,East,539.1
+2014,London,617.1
+2014,South East,567.2
+2014,South West,495.8
+2014,Wales,480.0
+2014,Scotland,518.6
+2014,Northern Ireland,460.0
+2015,United Kingdom,527.1
+2015,Great Britain,529.0
+2015,North East,485.6
+2015,North West,491.5
+2015,Yorkshire and The Humber,480.6
+2015,East Midlands,491.0
+2015,West Midlands,492.1
+2015,East,550.6
+2015,London,620.8
+2015,South East,574.9
+2015,South West,498.3
+2015,Wales,487.6
+2015,Scotland,527.0
+2015,Northern Ireland,484.4
+2016,United Kingdom,538.6
+2016,Great Britain,540.9
+2016,North East,492.4
+2016,North West,502.5
+2016,Yorkshire and The Humber,498.3
+2016,East Midlands,501.5
+2016,West Midlands,507.6
+2016,East,569.5
+2016,London,631.8
+2016,South East,581.8
+2016,South West,513.4
+2016,Wales,499.2
+2016,Scotland,536.0
+2016,Northern Ireland,493.7
+2017,United Kingdom,550.0
+2017,Great Britain,552.3
+2017,North East,504.1
+2017,North West,514.5
+2017,Yorkshire and The Humber,502.3
+2017,East Midlands,516.7
+2017,West Midlands,517.1
+2017,East,574.9
+2017,London,654.1
+2017,South East,595.9
+2017,South West,527.0
+2017,Wales,505.7
+2017,Scotland,547.4
+2017,Northern Ireland,500.0
+2018,United Kingdom,568.3
+2018,Great Britain,570.5
+2018,North East,511.1
+2018,North West,529.8
+2018,Yorkshire and The Humber,520.4
+2018,East Midlands,529.9
+2018,West Midlands,535.5
+2018,East,589.4
+2018,London,670.8
+2018,South East,614.9
+2018,South West,537.6
+2018,Wales,518.5
+2018,Scotland,562.7
+2018,Northern Ireland,518.3
+2019,United Kingdom,585.2
+2019,Great Britain,587.5
+2019,North East,531.4
+2019,North West,555.8
+2019,Yorkshire and The Humber,540.8
+2019,East Midlands,547.5
+2019,West Midlands,550.8
+2019,East,610.2
+2019,London,699.3
+2019,South East,636.3
+2019,South West,560.9
+2019,Wales,540.0
+2019,Scotland,578.3
+2019,Northern Ireland,534.7
+2020,United Kingdom,585.7
+2020,Great Britain,587.4
+2020,North East,525.2
+2020,North West,558.1
+2020,Yorkshire and The Humber,539.7
+2020,East Midlands,562.5
+2020,West Midlands,551.7
+2020,East,607.6
+2020,London,714.3
+2020,South East,629.0
+2020,South West,558.9
+2020,Wales,547.4
+2020,Scotland,595.0
+2020,Northern Ireland,528.6
+2021,United Kingdom,609.8
+2021,Great Britain,612.2
+2021,North East,546.7
+2021,North West,575.2
+2021,Yorkshire and The Humber,567.2
+2021,East Midlands,572.3
+2021,West Midlands,578.9
+2021,East,625.5
+2021,London,731.6
+2021,South East,660.0
+2021,South West,576.1
+2021,Wales,572.5
+2021,Scotland,619.9
+2021,Northern Ireland,574.2
+2022,United Kingdom,641.8
+2022,Great Britain,644.7
+2022,North East,581.4
+2022,North West,604.4
+2022,Yorkshire and The Humber,594.5
+2022,East Midlands,604.3
+2022,West Midlands,615.0
+2022,East,670.0
+2022,London,766.6
+2022,South East,689.0
+2022,South West,622.0
+2022,Wales,604.3
+2022,Scotland,641.3
+2022,Northern Ireland,594.2
+2023,United Kingdom,687.0
+2023,Great Britain,689.7
+2023,North East,617.4
+2023,North West,653.3
+2023,Yorkshire and The Humber,634.7
+2023,East Midlands,644.1
+2023,West Midlands,657.9
+2023,East,709.5
+2023,London,804.9
+2023,South East,728.3
+2023,South West,667.5
+2023,Wales,643.3
+2023,Scotland,709.4
+2023,Northern Ireland,640.0
+2024,United Kingdom,728.3
+2024,Great Britain,730.6
+2024,North East,661.4
+2024,North West,696.7
+2024,Yorkshire and The Humber,676.7
+2024,East Midlands,684.0
+2024,West Midlands,689.9
+2024,East,763.9
+2024,London,855.0
+2024,South East,780.0
+2024,South West,701.4
+2024,Wales,685.3
+2024,Scotland,740.1
+2024,Northern Ireland,664.6
+2025,United Kingdom,766.6
+2025,Great Britain,766.6
+2025,North East,692.1
+2025,North West,734.8
+2025,Yorkshire and The Humber,711.6
+2025,East Midlands,720.8
+2025,West Midlands,731.0
+2025,East,804.9
+2025,London,902.7
+2025,South East,815.2
+2025,South West,734.0
+2025,Wales,719.3
+2025,Scotland,775.6
+2025,Northern Ireland,715.6
